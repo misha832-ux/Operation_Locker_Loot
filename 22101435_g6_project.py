@@ -12,7 +12,6 @@ PLAY_BOUND_Y = (ROWS * TILE_H) / 2 - 20
 PLAYER_SPEED = 120.0
 START_LIFE = 3
 
-
 player_pos = [-PLAY_BOUND_X+30, 0.0, 20.0]  # slightly inside the left boundary
 player_angle = 90
 score = 0
@@ -213,4 +212,5 @@ def main():
 
 
 if __name__=="__main__":
+
     main()
