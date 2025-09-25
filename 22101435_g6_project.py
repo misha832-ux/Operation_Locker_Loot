@@ -62,7 +62,6 @@ def draw_text(x, y, text):
     glMatrixMode(GL_MODELVIEW)
 
 
-
 def keyboardListener(key,x,y):
     global keys_down, laser_forced_off, laser_forced_timer
     global tile_cheat, invisible, inv_timer, paused, slow_mode
@@ -214,3 +213,4 @@ def main():
 if __name__=="__main__":
 
     main()
+
