@@ -24,19 +24,29 @@ You start with **3 lives**. Hitting a laser or falling through a vanished tile c
 - Python 3.x
 - PyOpenGL
 
-### Install dependencies
-
+### Steps
+ 
+**1. Clone the repo**
+```bash
+git clone https://github.com/misha832-ux/Operation_Locker_Loot.git
+```
+ 
+**2. Navigate into the folder**
+```bash
+cd Operation_Locker_Loot
+```
+ 
+**3. Install dependencies**
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate
 ```
-
+ 
 > **Linux users** may also need GLUT:
 > ```bash
 > sudo apt-get install freeglut3-dev
 > ```
-
-### Run the game
-
+ 
+**4. Run the game**
 ```bash
 python full_project.py
 ```
