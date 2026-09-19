@@ -1,10 +1,10 @@
-# 🔐 Operation Locker Loot
+# Operation Locker Loot
 
 A 3D top-down heist game built with Python and OpenGL. Navigate a bank vault, dodge laser beams, avoid vanishing trap tiles, and collect treasures before the 5-minute timer runs out!
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 You play as a thief infiltrating a bank. Move through a 12×12 grid, collect **15 treasures** scattered across the floor, and unlock the **Locker** for bonus points — all while evading:
 
@@ -17,7 +17,7 @@ You start with **3 lives**. Hitting a laser or falling through a vanished tile c
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@ python full_project.py
 
 ---
 
-## 🕹️ Controls
+## Controls
 
 ### Movement
 
@@ -94,7 +94,7 @@ python full_project.py
 
 ---
 
-## 🏆 Scoring
+## Scoring
 
 | Event | Points |
 |-------|--------|
@@ -106,7 +106,7 @@ Collect all 15 treasures to reveal the **Locker** and complete the mission!
 
 ---
 
-## 🗺️ Game Elements
+## Game Elements
 
 - **Gray tiles** — safe floor
 - **Red tiles** — trap tile about to vanish (warning!)
@@ -118,7 +118,7 @@ Collect all 15 treasures to reveal the **Locker** and complete the mission!
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 ```
 Python >= 3.7
